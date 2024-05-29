@@ -1,0 +1,53 @@
+﻿<!-- Index.cshtml -->
+@model SignUpViewModel
+
+<h1>Welcome, @Model.Name! Roll No: @Model.RollNo</h1>
+
+<form id="signupForm" asp-controller="SignUp" asp-action="Index" method="post">
+    <div>
+        <label>Name:</label>
+        <input type="text" asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        <label>RollNo:</label>
+        <input type="text" asp-for="RollNo" />
+        <span asp-validation-for="RollNo"></span>
+    </div>
+    <!-- Add other form fields -->
+    <button type="submit">Submit</button>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#signupForm').submit(function (e) {
+                if (!$(this).valid()) {
+                    e.preventDefault();
+                }
+            });
+
+            $('#signupForm').validate({
+                rules: {
+                    Name: {
+                        required: true
+                    },
+                    RollNo: {
+                        required: true
+                    }
+                    // Add validation rules for other fields
+                },
+                messages: {
+                    Name: {
+                        required: "Please enter your name"
+                    },
+                    RollNo: {
+                        required: "Please enter your RollNo"
+                    }
+                    // Add custom error messages for other fields
+                }
+            });
+        });
+    </script>
+}

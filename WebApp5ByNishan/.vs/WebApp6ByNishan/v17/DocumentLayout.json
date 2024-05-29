@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|c:\\users\\hp\\source\\repos\\nishanbhattarai323\\c-\\webapp6bynishan\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|c:\\users\\hp\\source\\repos\\nishanbhattarai323\\c-\\webapp6bynishan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|c:\\users\\hp\\source\\repos\\nishanbhattarai323\\c-\\webapp6bynishan\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|solutionrelative:models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|c:\\users\\hp\\source\\repos\\nishanbhattarai323\\c-\\webapp6bynishan\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|c:\\users\\hp\\source\\repos\\nishanbhattarai323\\c-\\webapp6bynishan\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|c:\\users\\hp\\source\\repos\\nishanbhattarai323\\c-\\webapp6bynishan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{476CFCEA-A625-44F9-9527-270F77E24321}|WebApp5ByNishan.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Models\\Employees.cs",
+              "RelativeToolTip": "Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:15:36.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmpContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Models\\EmpContext.cs",
+              "RelativeToolTip": "Models\\EmpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:18:34.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:25:10.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:24:12.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T07:29:50.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Nishanbhattarai323\\C-\\WebApp6ByNishan\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T07:23:02.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
